@@ -16,12 +16,6 @@
     continue-list = <UNDERSCORE MINUS>;
 };
 
-/ {
-    keymap {
-        ...
-    };
-};
-
 &led_strip {
     chain-length = <35>;
 };
